@@ -99,5 +99,5 @@ If you want to install other models to your machine locally, navigate to Ollama.
 This project was developed through NetworkChuck's youtube video - [host ALL your AI locally](https://youtu.be/Wjrdr0NU4Sk?si=H-38TUSBJWRurCgc)
 For additional help and other features you can view his youtube channel - [NetworkChuck](https://www.youtube.com/@NetworkChuck)
 
-Follow his website - [NetworkChuck](networkchuck.com)
-Follow his academy - [NetworkChuck Academy](academy.networkchuck.com)
+Follow his website - [NetworkChuck](https://networkchuck.com)
+Follow his academy - [NetworkChuck Academy](https://academy.networkchuck.com)
